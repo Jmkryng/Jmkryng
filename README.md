@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jmkryng.jmkryng" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=7100F7&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My+Github+Profile;+I'm+Jim+Kier+Mesa;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=7100F7&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Jim+Kier+👋🏼;Welcome+to+My+Github+Profile;" />
 </h1>
 
 
