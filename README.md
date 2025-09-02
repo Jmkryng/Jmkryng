@@ -31,8 +31,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=go,ts,cs,php,dotnet,laravel,nestjs,express,prometheus,redis,terraform" />
-    <img src="https://skillicons.dev/icons?i=prisma,mysql,postgres,nodejs,mongodb,dynamodb,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=heroku,kubernetes,docker,kafka,webpack,azure,linux,aws,gcp,jenkins,graphql,vite,jest,git,nginx,bitbucket" /><br>
+    <img src="https://skillicons.dev/icons?i=prisma,mysql,postgres,nodejs,mongodb,dynamodb,firebase,nginx,graphql,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=heroku,kubernetes,docker,kafka,webpack,azure,linux,aws,gcp,jenkins,jest,git,bitbucket" /><br>
 </div>
 
 <br/>
