@@ -12,7 +12,7 @@
  
  📍 A Software Engineer from Philippines 📍
  
- 👨‍💻 I’m currently specialize at Backend Development and Cloud Computing 👨‍💻
+ 👨‍💻 Specialize at Backend Development and Cloud Computing 👨‍💻
 
  ⚡ Interested on various tools and technologies ⚡
  
@@ -30,9 +30,9 @@
 <h2 align="center">Languages / Frameworks / Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,babel,materialui,tailwind" />
-    <img src="https://skillicons.dev/icons?i=ts,prisma,cs,nestjs,laravel,express,php,mysql,postgres,nodejs,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=heroku,docker,kafka,webpack,azure,linux,aws,gcp,jenkins,graphql,vite,jest,git,nginx" /><br>
+    <img src="https://skillicons.dev/icons?i=go,ts,cs,php,dotnet,laravel,nestjs,express,prometheus,redis,terraform" />
+    <img src="https://skillicons.dev/icons?i=prisma,mysql,postgres,nodejs,mongodb,dynamodb,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=heroku,kubernetes,docker,kafka,webpack,azure,linux,aws,gcp,jenkins,graphql,vite,jest,git,nginx,bitbucket" /><br>
 </div>
 
 <br/>
